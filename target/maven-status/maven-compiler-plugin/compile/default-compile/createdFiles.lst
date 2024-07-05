@@ -1,0 +1,6 @@
+com\example\finanalyzr\service\FinancialDataService.class
+com\example\finanalyzr\FinanalyzrApplication.class
+com\example\finanalyzr\model\FinancialData.class
+com\example\finanalyzr\service\FinancialAnalysisService.class
+com\example\finanalyzr\controller\FinancialDataController.class
+com\example\finanalyzr\repository\FinancialDataRepository.class
